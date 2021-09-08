@@ -12,5 +12,5 @@ git add -A .
 git status
 git commit -a -m "Mensaje"-sirve para indicar lo q isimos en los archivos
 git status
-git pull -nesesario usar cuando en el repositoria trabajen varias personas
-git push
+git pull -actualize reposirorio
+git push-nesesario usar cuando en el repositoria trabajen varias personas
