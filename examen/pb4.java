@@ -24,7 +24,7 @@ public class pb4 {
         if(opcion==4)
             resultado=n1/n2; 
         if(opcion==5)
-            resultado=n1^n2;    
+            resultado=Math.pow(n1 , n2);    
         System.out.println("Valor de resultado: " + resultado);
     }
 
