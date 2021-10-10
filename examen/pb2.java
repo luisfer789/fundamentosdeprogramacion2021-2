@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TrabajoDos{
+public class pb2{
   static Scanner sc = new Scanner(System.in);
   static void salarioyPuntosEAMQ(){
     // definir variables
