@@ -118,8 +118,6 @@ System.out.println("La suma de numeros pares es:"+suma);
     //Datos de salida
     //System.out.println(msgrespuesta);
   }
-
-
   public static void main(String [] arg){
     menuOpciones();
   }
