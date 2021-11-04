@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class cuatro {
+public class dos {
 
 static Scanner sc = new Scanner(System.in);
 
